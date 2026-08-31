@@ -52,29 +52,6 @@ I recently completed an **AI internship at Rungta Ventures AI**, working on a li
 
 ---
 
-## GitHub Activity Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajatmurhe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Rajat's GitHub stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rajatmurhe&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajatmurhe&layout=compact&theme=tokyonight&langs_count=10&hide_border=true" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajatmurhe&theme=tokyonight&column=7&no-bg=true&no-frame=true&margin-w=10" alt="GitHub trophies" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajatmurhe&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=3b5ba5&point=1f3864&area=true&area_color=7aa2f7" alt="Activity graph" />
-</div>
-
-<br />
-
----
-
 ## Tech Stack
 
 <details open>
@@ -128,6 +105,16 @@ I recently completed an **AI internship at Rungta Ventures AI**, working on a li
 </div>
 </details>
 
+<details open>
+<summary><b>📊 Data & BI</b></summary><br />
+<div align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/SPSS-1F3864?style=for-the-badge" />
+</div>
+</details>
 
 <details open>
 <summary><b>☁️ Cloud & DevOps</b></summary><br />
@@ -287,55 +274,9 @@ Explainable credit risk classification on a real 31,711 row dataset.
 
 ---
 
-## Education Timeline
-
-<table>
-  <thead>
-    <tr><th align="center">📅 Year</th><th align="left">🏫 Institution</th><th align="left">🎓 Degree / Board</th><th align="center">📊 Score</th></tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center"><b>2023 – Present</b></td>
-      <td><b>Vellore Institute of Technology, Chennai</b></td>
-      <td>B.Tech, Computer Science (AI & ML)</td>
-      <td align="center"><img src="https://img.shields.io/badge/%2F10-7AA2F7?style=flat-square" /></td>
-    </tr>
-    <tr>
-      <td align="center"><b>2020 – 2022</b></td>
-      <td>Pratibha International School, Pune</td>
-      <td>CBSE — Class XII</td>
-      <td align="center"><img src="https://img.shields.io/badge/86.7%25-9ECE6A?style=flat-square" /></td>
-    </tr>
-    <tr>
-      <td align="center"><b>2019 – 2020</b></td>
-      <td>SNBP International School, Pune</td>
-      <td>CBSE — Class X</td>
-      <td align="center"><img src="https://img.shields.io/badge/95.6%25-BB9AF7?style=flat-square" /></td>
-    </tr>
-  </tbody>
-</table>
-
-<br />
-
----
-
 ## Achievements & Leadership
 
 <table>
-  <tr>
-    <td width="140" align="center">
-      <img src="https://img.shields.io/badge/🥇-1F3864?style=for-the-badge" /><br /><br />
-      <code>Apr 2026</code>
-    </td>
-    <td>
-      <b>First Prize Winner — AGRHINOVA Hackathon, VIT Chennai (CeAT-RC)</b>
-      <ul>
-        <li>Architected a Multimodal Crop Diagnostics and Vernacular Advisory platform</li>
-        <li>Built an AI visual classification model detecting crop diseases, pests, and nutrient deficiencies</li>
-        <li>Integrated a multilingual RAG assistant delivering localized treatment schedules to farmers</li>
-      </ul>
-    </td>
-  </tr>
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/🎓-3B5BA5?style=for-the-badge" /></td>
     <td><b>Avery Dennison Scholarship</b> — merit based, Rs. 1.5 lakh</td>
