@@ -128,16 +128,6 @@ I recently completed an **AI internship at Rungta Ventures AI**, working on a li
 </div>
 </details>
 
-<details open>
-<summary><b>📊 Data & BI</b></summary><br />
-<div align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/SPSS-1F3864?style=for-the-badge" />
-</div>
-</details>
 
 <details open>
 <summary><b>☁️ Cloud & DevOps</b></summary><br />
@@ -308,7 +298,7 @@ Explainable credit risk classification on a real 31,711 row dataset.
       <td align="center"><b>2023 – Present</b></td>
       <td><b>Vellore Institute of Technology, Chennai</b></td>
       <td>B.Tech, Computer Science (AI & ML)</td>
-      <td align="center"><img src="https://img.shields.io/badge/CGPA-8.1%2F10-7AA2F7?style=flat-square" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/%2F10-7AA2F7?style=flat-square" /></td>
     </tr>
     <tr>
       <td align="center"><b>2020 – 2022</b></td>
