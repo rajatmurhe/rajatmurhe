@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/rajatmurhe">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&background=1F3864&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Rajat+Murhe+%F0%9F%91%8B;AI%2FGenAI+Engineer+%7C+Full-Stack+Developer;Building+RAG+Systems+%26+AI+Agents+%E2%9A%A1;B.Tech+CS+(AI+%26+ML)+%40+VIT+Chennai;CGPA+8.1+%2F+10+%E2%9C%A8" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&background=1F3864&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Rajat+Murhe+%F0%9F%91%8B;AI%2FGenAI+Engineer+%7C+Full-Stack+Developer;Building+RAG+Systems+%26+AI+Agents+%E2%9A%A1;B.Tech+CS+(AI+%26+ML)+%40+VIT+Chennai;" alt="Typing intro" />
   </a>
 </p>
 
