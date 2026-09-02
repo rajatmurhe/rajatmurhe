@@ -32,7 +32,7 @@
 
 ## About Me
 
-I'm a **final year B.Tech Computer Science (AI & ML)** student at **VIT Chennai** (CGPA **8.1/10**). I build real, deployed AI and full stack products, not just notebooks, RAG pipelines, guardrailed AI agents, explainable ML systems, and production style backend and frontend apps.
+I'm a **final year B.Tech Computer Science (AI & ML)** student at **VIT Chennai** . I build real, deployed AI and full stack products, not just notebooks, RAG pipelines, guardrailed AI agents, explainable ML systems, and production style backend and frontend apps.
 
 I recently completed an **AI internship at Rungta Ventures AI**, working on a live product called **Buddyly**, contributing to real product initiatives rather than training assignments.
 
