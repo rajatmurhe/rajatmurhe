@@ -1,7 +1,7 @@
 <a name="top"></a>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B3E,40:1F3864,70:3B5BA5,100:7AA2F7&height=280&section=header&text=Rajat%20Murhe&fontSize=80&animation=fadeIn&fontAlignY=38&desc=%20%AI%2FGenAI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20&descAlignY=58&descAlign=50&fontColor=FFFFFF" alt="Rajat Murhe header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B3E,40:1F3864,70:3B5BA5,100:7AA2F7&height=280&section=header&text=Rajat%20Murhe&fontSize=80&animation=fadeIn&fontAlignY=38&desc=AI%2FGenAI%20Engineer%20%7C%20Full-Stack%20Developer7C%20&descAlignY=58&descAlign=50&fontColor=FFFFFF" alt="Rajat Murhe header banner" />
 </p>
 
 <p align="center">
