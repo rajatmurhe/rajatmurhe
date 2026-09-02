@@ -32,7 +32,7 @@
 
 ## About Me
 
-I'm a **final year B.Tech Computer Science (AI & ML)** student at **VIT Chennai**. I build real, deployed AI and full stack products, not just notebooks, RAG pipelines, guardrailed AI agents, explainable ML systems, and production style backend and frontend apps.
+I'm a **final year B.Tech Computer Science (AI & ML)** student at **VIT Chennai** (CGPA **8.1/10**). I build real, deployed AI and full stack products, not just notebooks, RAG pipelines, guardrailed AI agents, explainable ML systems, and production style backend and frontend apps.
 
 I recently completed an **AI internship at Rungta Ventures AI**, working on a live product called **Buddyly**, contributing to real product initiatives rather than training assignments.
 
@@ -268,6 +268,88 @@ Explainable credit risk classification on a real 31,711 row dataset.
 <p>
   <a href="https://github.com/rajatmurhe/CrediX-Explainable-Credit-Intelligence" target="_blank"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://credix.streamlit.app/" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+<br />
+
+### 💊 EcoMeds — Circular Pharmaceutical Redistribution Platform
+<p>
+  <img src="https://img.shields.io/badge/React%2018-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square" />
+</p>
+
+A full stack platform routing near expiry medicines from donors to verified NGOs, shelters, and free clinics.
+
+- Multi tenant Role Based Access Control with tenant scoped inventory partitioning
+- 3 tier expiry urgency categorization algorithm and a requisition marketplace with batch cart
+- ESG and CSR analytics engine calculating diverted CO2 emissions
+
+<p>
+  <a href="https://github.com/rajatmurhe/ecomeds" target="_blank"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://ecomeds-nine.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+<br />
+
+### 📊 InsightOS — Autonomous BI & Decision Intelligence Platform
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/ETL-1F3864?style=flat-square" />
+</p>
+
+An autonomous BI platform turning raw business data into automated analytics and reporting.
+
+- Built ETL pipelines and backend logic to process, validate, and model business data
+- Designed schemas supporting reliable, repeatable reporting across multiple data sources
+- Published as a live executive dashboard for ongoing tracking
+
+<p>
+  <a href="https://github.com/rajatmurhe/InsightOS" target="_blank"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://public.tableau.com/app/profile/rajat.murhe/viz/InsightOSExecutiveDashboard/Dashboard1?publish=yes" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=tableau&logoColor=white" /></a>
+</p>
+
+<br />
+
+### 🏭 Retail Sales ETL Analytics Pipeline
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+</p>
+
+An end to end Data Engineering and BI project turning raw retail transactions into decision ready analytics.
+
+- Processed 12,000 retail transactions into a MySQL Star Schema data warehouse
+- Wrote 15 SQL queries for data validation and business analysis
+- Built a Power BI dashboard tracking 6 core KPIs using DAX
+
+<p>
+  <a href="https://github.com/rajatmurhe/Retail-Sales-ETL-Analytics-Pipeline" target="_blank"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<br />
+
+### 🧠 Adaptive Cognitive Load and Behavioral Analysis System
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square" />
+</p>
+
+A real time computer vision system estimating cognitive state from facial behavioral signals.
+
+- 468 point facial landmark detection via MediaPipe FaceMesh, blink and gaze based signal extraction
+- Personalized baseline calibration feeding a Cognitive Load Index and phase analysis
+- Automated PDF report generation with time series and correlation analysis
+
+<p>
+  <a href="https://github.com/rajatmurhe/adaptive-cognitive-load-analysis" target="_blank"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://adaptive-cognitive-load-analysis.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 <br />
