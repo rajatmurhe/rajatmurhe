@@ -34,8 +34,6 @@
 
 I'm a **final year B.Tech Computer Science (AI & ML)** student at **VIT Chennai** . I build real, deployed AI and full stack products, not just notebooks, RAG pipelines, guardrailed AI agents, explainable ML systems, and production style backend and frontend apps.
 
-I recently completed an **AI internship at Rungta Ventures AI**, working on a live product called **Buddyly**, contributing to real product initiatives rather than training assignments.
-
 - 🤖 **Currently building:** AI agents and RAG systems integrated into real backend services
 - 🌱 **Learning:** agent orchestration, vector database internals, MLOps
 - 🎯 **Open to:** AI/ML and full stack engineering internships
