@@ -36,7 +36,6 @@ I'm a **final year B.Tech Computer Science (AI & ML)** student at **VIT Chennai*
 
 - 🤖 **Currently building:** AI agents and RAG systems integrated into real backend services
 - 🌱 **Learning:** agent orchestration, vector database internals, MLOps
-- 🎯 **Open to:** AI/ML and full stack engineering internships
 - 💬 **Ask me about:** RAG pipelines, LangChain, SHAP explainability, FastAPI, React
 - 🏆 **Fun fact:** first place at a hackathon building an AI crop diagnostics platform with a multilingual RAG assistant for farmers
 
