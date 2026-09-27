@@ -32,7 +32,7 @@
 
 ## About Me
 
-I'm a **final year B.Tech Computer Science (AI & ML)** student at **VIT Chennai** . I build real, deployed AI and full stack products, not just notebooks, RAG pipelines, guardrailed AI agents, explainable ML systems, and production style backend and frontend apps.
+I'm a **final year B.Tech Computer Science (AI & ML)** student at **VIT Chennai**. I build real, deployed AI and full stack products, not just notebooks, RAG pipelines, guardrailed AI agents, explainable ML systems, and production style backend and frontend apps.
 
 - 🤖 **Currently building:** AI agents and RAG systems integrated into real backend services
 - 🌱 **Learning:** agent orchestration, vector database internals, MLOps
@@ -60,7 +60,6 @@ I'm a **final year B.Tech Computer Science (AI & ML)** student at **VIT Chennai*
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 </div>
 </details>
 
@@ -85,6 +84,7 @@ I'm a **final year B.Tech Computer Science (AI & ML)** student at **VIT Chennai*
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </div>
@@ -109,7 +109,6 @@ I'm a **final year B.Tech Computer Science (AI & ML)** student at **VIT Chennai*
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/SPSS-1F3864?style=for-the-badge" />
 </div>
 </details>
 
@@ -117,6 +116,8 @@ I'm a **final year B.Tech Computer Science (AI & ML)** student at **VIT Chennai*
 <summary><b>☁️ Cloud & DevOps</b></summary><br />
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -145,23 +146,87 @@ I'm a **final year B.Tech Computer Science (AI & ML)** student at **VIT Chennai*
 
 <br />
 
-### 🤖 AI Resume Analyzer *(Deployed)*
+### 🎙️ ClinicVoice AI — Voice Enabled Clinical FAQ Assistant *(Deployed)*
 <p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square" />
-  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
-A live, publicly deployed AI pipeline that extracts structured data from resumes and evaluates ATS compatibility.
+A multi agent voice assistant for a medical clinic that answers patient questions out loud and books real appointments.
 
-- Built and deployed a REST API driven NLP pipeline using spaCy and the OpenAI API
-- Processed 500+ resume to job description comparisons, cutting manual evaluation time by ~80%
-- Wrote pytest suites validating API responses and edge cases
+- Multi agent system in Python, one agent each for booking, refills, insurance, escalation, and FAQ, with real Google Calendar integration
+- Four layer safety architecture scanning both user input and the AI's own generated output, catching a real hallucination bug in production
+- Semantic caching cutting repeat response time by roughly 169x, plus local voice cloning with XTTS-v2
 
 <p>
-  <a href="https://github.com/rajatmurhe/Resume_Analyzer" target="_blank"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://resumeanalyzerfrontend-production.up.railway.app/" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/rajatmurhe/clinicvoice-ai" target="_blank"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://clinicvoice-ai-1.onrender.com" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+<br />
+
+### 🎥 FieldProof AI — AI Powered Field Service Video QA Platform
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+</p>
+
+A multi tenant platform that analyzes technician job completion videos against configurable service checklists.
+
+- Gemini agentic video understanding producing structured pass, fail, or not visible findings with confidence and timestamped evidence
+- Asynchronous PostgreSQL job queue using transactional job claiming, so no two workers ever process the same job
+- Human in the loop review workflow with timestamp based evidence inspection and full audit trails
+
+<p>
+  <a href="https://github.com/rajatmurhe/fieldproof-ai" target="_blank"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<br />
+
+### 🛡️ SentinelAI — Adaptive Insider Threat Detection
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/SHAP-3B5BA5?style=flat-square" />
+</p>
+
+A 10 stage adaptive threat detection pipeline for behavioral anomaly detection and security enforcement.
+
+- Isolation Forest and One Class SVM anomaly detection with Tree SHAP explaining every flagged decision
+- Post quantum cryptography layer using ML KEM and ML DSA for key establishment and signed security decisions
+- Multi turn attack simulations with AAS/RES metrics and adaptive mitigation actions
+
+<p>
+  <a href="https://github.com/rajatmurhe/Sentinel-AI" target="_blank"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://sentinel-ai-czmu.onrender.com" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+<br />
+
+### 💼 AI Job Assistant — AI Powered Job Search & Application Automation Platform
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+</p>
+
+A tool that reads a resume and a job posting, scores your fit, and automatically writes a tailored resume and cover letter.
+
+- RAG based semantic matching and ATS analysis, plus AI generated resumes, cover letters, and application emails
+- n8n workflows automating the full pipeline end to end, from parsing through document generation
+- Modular agent architecture supporting interchangeable LLM providers with structured output validation
+
+<p>
+  <a href="https://github.com/rajatmurhe/ai-job-assistant" target="_blank"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <br />
@@ -228,6 +293,27 @@ Predicts cognitive impairment stages from clinical biomarkers using a fine tuned
 
 <br />
 
+### 🕶️ Vision Based Indoor Navigation using Reinforcement Learning
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyBullet-1F3864?style=flat-square" />
+  <img src="https://img.shields.io/badge/Stable--Baselines3-3B5BA5?style=flat-square" />
+  <img src="https://img.shields.io/badge/Gymnasium-7AA2F7?style=flat-square" />
+</p>
+
+An agent that learns to navigate a simulated indoor environment toward a goal using only first person visual input.
+
+- Custom Gymnasium environment in PyBullet with an R2D2 robot, random obstacles, and a randomized goal
+- PPO policy trained via Stable-Baselines3 on a 64x64 RGB observation plus goal direction vector
+- Standalone Streamlit dashboard showing first person, third person, and top down views live, decoupled from the training code
+
+<p>
+  <a href="https://github.com/rajatmurhe/Vision-Based-Indoor-Navigation-using-Reinforcement-Learning" target="_blank"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://vision-based-indoor-navigation-using-reinforcement-learning-ye.streamlit.app/" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+<br />
+
 ### 📈 TradeAlpha — AI Powered Stock Market Forecasting & Portfolio Optimization
 <p>
   <img src="https://img.shields.io/badge/XGBoost-1F3864?style=flat-square" />
@@ -259,8 +345,8 @@ A hybrid ML and reinforcement learning system for dynamic multi asset portfolio 
 Explainable credit risk classification on a real 31,711 row dataset.
 
 - Benchmarked Logistic Regression, HistGradientBoosting, Extra Trees, and Random Forest
-- Tuned the best performer with RandomizedSearchCV, reaching 75.2% accuracy and 74.2% F1
-- SHAP explainability behind every automated decision, presented via an interactive dashboard
+- Tuned the best performer with RandomizedSearchCV, reaching 78.62% accuracy and 74.26% F1
+- Gini and MDI based feature importance behind every automated decision, presented via an interactive dashboard
 
 <p>
   <a href="https://github.com/rajatmurhe/CrediX-Explainable-Credit-Intelligence" target="_blank"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -286,27 +372,6 @@ A full stack platform routing near expiry medicines from donors to verified NGOs
 <p>
   <a href="https://github.com/rajatmurhe/ecomeds" target="_blank"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://ecomeds-nine.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
-
-<br />
-
-### 📊 InsightOS — Autonomous BI & Decision Intelligence Platform
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/ETL-1F3864?style=flat-square" />
-</p>
-
-An autonomous BI platform turning raw business data into automated analytics and reporting.
-
-- Built ETL pipelines and backend logic to process, validate, and model business data
-- Designed schemas supporting reliable, repeatable reporting across multiple data sources
-- Published as a live executive dashboard for ongoing tracking
-
-<p>
-  <a href="https://github.com/rajatmurhe/InsightOS" target="_blank"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://public.tableau.com/app/profile/rajat.murhe/viz/InsightOSExecutiveDashboard/Dashboard1?publish=yes" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=tableau&logoColor=white" /></a>
 </p>
 
 <br />
@@ -378,10 +443,10 @@ A real time computer vision system estimating cognitive state from facial behavi
 
 <div align="center">
   <img src="https://img.shields.io/badge/IBM-Advanced%20Generative%20AI-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
-  <img src="https://img.shields.io/badge/IBM-Generative%20AI%20%26%20LLMs-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-Intro%20to%20GenAI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft-ML%20Operations%20Engineer%20Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-Professional%20ML%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft-Azure%20Developer%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
-  <img src="https://img.shields.io/badge/Microsoft-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </div>
 
 <br />
