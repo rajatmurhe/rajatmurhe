@@ -1,468 +1,201 @@
-<a name="top"></a>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B3E,40:1F3864,70:3B5BA5,100:7AA2F7&height=280&section=header&text=Rajat%20Murhe&fontSize=80&animation=fadeIn&fontAlignY=38&desc=AI%2FGenAI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20&descAlignY=58&descAlign=50&fontColor=FFFFFF" alt="Rajat Murhe header banner" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/rajatmurhe">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&background=1F3864&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Rajat+Murhe+%F0%9F%91%8B;AI%2FGenAI+Engineer+%7C+Full-Stack+Developer;Building+RAG+Systems+%26+AI+Agents+%E2%9A%A1;B.Tech+CS+(AI+%26+ML)+%40+VIT+Chennai;" alt="Typing intro" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajatmurhe&label=Profile%20Views&color=1F3864&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/rajatmurhe?label=Followers&style=for-the-badge&color=3B5BA5&logo=github" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/rajatmurhe?label=Stars&style=for-the-badge&color=7AA2F7" alt="GitHub stars" />
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/rajat-murhe" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/rajatmurhe" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:rajatmurhe1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<br />
-
-## About Me
-
-I'm a **final year B.Tech Computer Science (AI & ML)** student at **VIT Chennai**. I build real, deployed AI and full stack products, not just notebooks, RAG pipelines, guardrailed AI agents, explainable ML systems, and production style backend and frontend apps.
-
-- 🤖 **Currently building:** AI agents and RAG systems integrated into real backend services
-- 🌱 **Learning:** agent orchestration, vector database internals, MLOps
-- 💬 **Ask me about:** RAG pipelines, LangChain, SHAP explainability, FastAPI, React
-- 🏆 **Fun fact:** first place at a hackathon building an AI crop diagnostics platform with a multilingual RAG assistant for farmers
-
 <div align="center">
 
-`🤖 GenAI` ・ `🧠 Machine Learning` ・ `⚡ Full Stack` ・ `📊 Data Engineering` ・ `☁️ Cloud`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0d16,50:1f2a5c,100:8ea2ff&height=190&section=header&text=Rajat%20Murhe&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20LLM%20Agents%20%C2%B7%20RAG%20%C2%B7%20Evals&descAlignY=58&descSize=18" width="100%" alt="Rajat Murhe banner"/>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=8EA2FF&center=true&vCenter=true&width=620&lines=I+build+AI+agents+that+are+safe+to+ship;Evals+first%2C+then+features;RAG%2C+LangGraph%2C+MCP%2C+FastAPI%2C+Next.js;Final+year+CS+(AI+%26+ML)+%40+VIT+Chennai" alt="Typing intro"/></a>
+
+<p>
+<a href="https://linkedin.com/in/rajat-murhe"><img src="https://img.shields.io/badge/LinkedIn-rajat--murhe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:rajatmurhe1@gmail.com"><img src="https://img.shields.io/badge/Email-rajatmurhe1%40gmail.com-8EA2FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://drive.google.com/file/d/1hkfZVrAmDvxD9OvDVLowiNIKv6A7m7Fz/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View-111421?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
+<img src="https://komarev.com/ghpvc/?username=rajatmurhe&style=for-the-badge&color=1f2a5c&label=Profile+views" alt="Profile views"/>
+</p>
 
 </div>
 
-<br />
-
----
-
-## Tech Stack
-
-<details open>
-<summary><b>💻 Languages</b></summary><br />
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</div>
-</details>
-
-<details open>
-<summary><b>🤖 AI & GenAI</b></summary><br />
-<div align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/SHAP-3B5BA5?style=for-the-badge" />
-</div>
-</details>
-
-<details open>
-<summary><b>🌐 Frontend & Backend</b></summary><br />
-<div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-</div>
-</details>
-
-<details open>
-<summary><b>🗄️ Databases</b></summary><br />
-<div align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/FAISS-3B5BA5?style=for-the-badge" />
-</div>
-</details>
-
-<details open>
-<summary><b>📊 Data & BI</b></summary><br />
-<div align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-</div>
-</details>
-
-<details open>
-<summary><b>☁️ Cloud & DevOps</b></summary><br />
-<div align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-</div>
-</details>
-
-<details>
-<summary><b>📚 Core Concepts</b></summary><br />
-<div align="center">
-  <img src="https://img.shields.io/badge/Data%20Structures-7AA2F7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Algorithms-BB9AF7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OOP-F7768E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DBMS-9ECE6A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Operating%20Systems-E0AF68?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Computer%20Networks-A9B1D6?style=for-the-badge" />
-</div>
-</details>
-
-<br />
-
----
-
-## Featured Projects
-
-<br />
-
-### 🎙️ ClinicVoice AI — Voice Enabled Clinical FAQ Assistant *(Deployed)*
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square" />
-  <img src="https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white" />
-</p>
-
-A multi agent voice assistant for a medical clinic that answers patient questions out loud and books real appointments.
-
-- Multi agent system in Python, one agent each for booking, refills, insurance, escalation, and FAQ, with real Google Calendar integration
-- Four layer safety architecture scanning both user input and the AI's own generated output, catching a real hallucination bug in production
-- Semantic caching cutting repeat response time by roughly 169x, plus local voice cloning with XTTS-v2
-
-<p>
-  <a href="https://github.com/rajatmurhe/clinicvoice-ai" target="_blank"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://clinicvoice-ai-1.onrender.com" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
-
-<br />
-
-### 🎥 FieldProof AI — AI Powered Field Service Video QA Platform
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
-</p>
-
-A multi tenant platform that analyzes technician job completion videos against configurable service checklists.
-
-- Gemini agentic video understanding producing structured pass, fail, or not visible findings with confidence and timestamped evidence
-- Asynchronous PostgreSQL job queue using transactional job claiming, so no two workers ever process the same job
-- Human in the loop review workflow with timestamp based evidence inspection and full audit trails
-
-<p>
-  <a href="https://github.com/rajatmurhe/fieldproof-ai" target="_blank"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
-<br />
-
-### 🛡️ SentinelAI — Adaptive Insider Threat Detection
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/SHAP-3B5BA5?style=flat-square" />
-</p>
-
-A 10 stage adaptive threat detection pipeline for behavioral anomaly detection and security enforcement.
-
-- Isolation Forest and One Class SVM anomaly detection with Tree SHAP explaining every flagged decision
-- Post quantum cryptography layer using ML KEM and ML DSA for key establishment and signed security decisions
-- Multi turn attack simulations with AAS/RES metrics and adaptive mitigation actions
-
-<p>
-  <a href="https://github.com/rajatmurhe/Sentinel-AI" target="_blank"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://sentinel-ai-czmu.onrender.com" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
-
-<br />
-
-### 💼 AI Job Assistant — AI Powered Job Search & Application Automation Platform
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-</p>
-
-A tool that reads a resume and a job posting, scores your fit, and automatically writes a tailored resume and cover letter.
-
-- RAG based semantic matching and ATS analysis, plus AI generated resumes, cover letters, and application emails
-- n8n workflows automating the full pipeline end to end, from parsing through document generation
-- Modular agent architecture supporting interchangeable LLM providers with structured output validation
-
-<p>
-  <a href="https://github.com/rajatmurhe/ai-job-assistant" target="_blank"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
-<br />
-
-### 🦷 Apex Dental Care AI Agent
-<p>
-  <img src="https://img.shields.io/badge/TARS-1F3864?style=flat-square" />
-  <img src="https://img.shields.io/badge/Salesforce%20API-00A1E0?style=flat-square&logo=salesforce&logoColor=white" />
-  <img src="https://img.shields.io/badge/OAuth%202.0-000000?style=flat-square" />
-</p>
-
-A guardrailed conversational AI agent for a multi location dental clinic, with real Salesforce CRM integration.
-
-- Handles natural language patient intake, scheduling, and silent lead classification
-- Hard safety constraints prevent unsafe medical guidance
-- Root caused an OAuth failure and built a custom two step OAuth 2.0 integration to fix it
-
-<p>
-  <a href="https://github.com/rajatmurhe/apex-dental-care-ai-agent" target="_blank"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://neoagent.hellotars.com/chat/kCVSzoBw?region=us" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
-
-<br />
-
-### 📄 RAG Intelligence — AI Document Question Answering System
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-</p>
-
-A full stack Retrieval Augmented Generation platform turning PDFs into a searchable, conversational knowledge base.
-
-- React and Vite frontend, Node.js/Express REST APIs, PostgreSQL with pgvector for semantic search
-- Redis caching to reduce repeated query latency
-- UI surfaces retrieved sources and relevance scores for transparency
-
-<p>
-  <a href="https://github.com/rajatmurhe/RAGPDF" target="_blank"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
-<br />
-
-### 🩺 NeuroAI — Explainable Clinical Diagnostic Platform
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/SHAP-3B5BA5?style=flat-square" />
-</p>
-
-Predicts cognitive impairment stages from clinical biomarkers using a fine tuned transformer.
-
-- Serialized tabular clinical data into natural language and fine tuned BERT, benchmarked against XGBoost and Random Forest
-- Built a SHAP based explainability engine with real time waterfall plots
-- Decoupled FastAPI backend serving a live inference layer
-
-<p>
-  <a href="https://github.com/rajatmurhe/NeuroAI-Diagnostic-Platform" target="_blank"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://neuroai-diagnostic.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
-
-<br />
-
-### 🕶️ Vision Based Indoor Navigation using Reinforcement Learning
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyBullet-1F3864?style=flat-square" />
-  <img src="https://img.shields.io/badge/Stable--Baselines3-3B5BA5?style=flat-square" />
-  <img src="https://img.shields.io/badge/Gymnasium-7AA2F7?style=flat-square" />
-</p>
-
-An agent that learns to navigate a simulated indoor environment toward a goal using only first person visual input.
-
-- Custom Gymnasium environment in PyBullet with an R2D2 robot, random obstacles, and a randomized goal
-- PPO policy trained via Stable-Baselines3 on a 64x64 RGB observation plus goal direction vector
-- Standalone Streamlit dashboard showing first person, third person, and top down views live, decoupled from the training code
-
-<p>
-  <a href="https://github.com/rajatmurhe/Vision-Based-Indoor-Navigation-using-Reinforcement-Learning" target="_blank"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://vision-based-indoor-navigation-using-reinforcement-learning-ye.streamlit.app/" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
-
-<br />
-
-### 📈 TradeAlpha — AI Powered Stock Market Forecasting & Portfolio Optimization
-<p>
-  <img src="https://img.shields.io/badge/XGBoost-1F3864?style=flat-square" />
-  <img src="https://img.shields.io/badge/Reinforcement%20Learning-7AA2F7?style=flat-square" />
-  <img src="https://img.shields.io/badge/Stable--Baselines3-3B5BA5?style=flat-square" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-</p>
-
-A hybrid ML and reinforcement learning system for dynamic multi asset portfolio allocation.
-
-- XGBoost next day return forecasting combined with a PPO reinforcement learning agent
-- Evaluated across 18,200 observations, 62.07% directional accuracy
-- Outperformed an equal weight benchmark by 8.22 percentage points on unseen data
-
-<p>
-  <a href="https://github.com/rajatmurhe/TradeAlpha" target="_blank"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://tradealpha-kf7flfuhbsbwdokmrtzvdm.streamlit.app/" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
-
-<br />
-
-### 💳 CreditX — Explainable Credit Intelligence
-<p>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Random%20Forest-1F3864?style=flat-square" />
-  <img src="https://img.shields.io/badge/SHAP-3B5BA5?style=flat-square" />
-</p>
-
-Explainable credit risk classification on a real 31,711 row dataset.
-
-- Benchmarked Logistic Regression, HistGradientBoosting, Extra Trees, and Random Forest
-- Tuned the best performer with RandomizedSearchCV, reaching 78.62% accuracy and 74.26% F1
-- Gini and MDI based feature importance behind every automated decision, presented via an interactive dashboard
-
-<p>
-  <a href="https://github.com/rajatmurhe/CrediX-Explainable-Credit-Intelligence" target="_blank"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://credix.streamlit.app/" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
-
-<br />
-
-### 💊 EcoMeds — Circular Pharmaceutical Redistribution Platform
-<p>
-  <img src="https://img.shields.io/badge/React%2018-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square" />
-</p>
-
-A full stack platform routing near expiry medicines from donors to verified NGOs, shelters, and free clinics.
-
-- Multi tenant Role Based Access Control with tenant scoped inventory partitioning
-- 3 tier expiry urgency categorization algorithm and a requisition marketplace with batch cart
-- ESG and CSR analytics engine calculating diverted CO2 emissions
-
-<p>
-  <a href="https://github.com/rajatmurhe/ecomeds" target="_blank"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://ecomeds-nine.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
-
-<br />
-
-### 🏭 Retail Sales ETL Analytics Pipeline
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-</p>
-
-An end to end Data Engineering and BI project turning raw retail transactions into decision ready analytics.
-
-- Processed 12,000 retail transactions into a MySQL Star Schema data warehouse
-- Wrote 15 SQL queries for data validation and business analysis
-- Built a Power BI dashboard tracking 6 core KPIs using DAX
-
-<p>
-  <a href="https://github.com/rajatmurhe/Retail-Sales-ETL-Analytics-Pipeline" target="_blank"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
-<br />
-
-### 🧠 Adaptive Cognitive Load and Behavioral Analysis System
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square" />
-</p>
-
-A real time computer vision system estimating cognitive state from facial behavioral signals.
-
-- 468 point facial landmark detection via MediaPipe FaceMesh, blink and gaze based signal extraction
-- Personalized baseline calibration feeding a Cognitive Load Index and phase analysis
-- Automated PDF report generation with time series and correlation analysis
-
-<p>
-  <a href="https://github.com/rajatmurhe/adaptive-cognitive-load-analysis" target="_blank"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://adaptive-cognitive-load-analysis.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
-
-<br />
-
----
-
-## Achievements & Leadership
+## About me
+
+```yaml
+name:        Rajat Murhe
+based_in:    Pune, India
+studying:    BTech Computer Science (AI and Machine Learning), VIT Chennai, graduating Sep 2027
+experience:  3 internships across AI engineering, applied ML and AI product work
+building:    LLM agents, RAG systems, eval harnesses, FastAPI backends, Next.js frontends
+daily_tools: Claude Code, Cursor, Codex
+looking_for: AI, GenAI and agentic AI internships and junior roles (India or remote)
+```
+
+I care about AI systems that are right, safe and fast at the same time. Most of my projects ship with an eval set, a red team set and CI that blocks regressions, because a demo that works once is not a product.
+
+## Featured projects
 
 <table>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/🎓-3B5BA5?style=for-the-badge" /></td>
-    <td><b>Avery Dennison Scholarship</b> — merit based, Rs. 1.5 lakh</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/👔-7AA2F7?style=for-the-badge" /></td>
-    <td><b>Vice President, Swarajya — Marathi Literary Association</b> (2025–2026), VIT Chennai</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/🏏-1F3864?style=for-the-badge" /></td>
-    <td><b>State Level Cricketer</b> — Maharashtra Under 16 Team, all rounder</td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 [TickerSage](https://github.com/rajatmurhe/tickersage)
+Read only crypto market research agent.
+
+- 7 tool integrations, every number checked by a **number verifier**: 100% of numbers traced to source on a blind held out eval
+- Slowest 5% latency cut from **4.5 s to 1.7 s** at the same 78.8% pass rate
+- Attacks getting through cut from **72.8% to 1.9%**, with 932 regression attacks blocked
+- RAG MRR improved from **0.533 to 0.721**
+
+`Python` `FastAPI` `LangGraph` `MCP` `pgvector` `Redis` `Next.js` `Claude` `OpenAI` `Groq`
+
+</td>
+<td width="50%" valign="top">
+
+### 🩺 [ClinicVoice AI](https://github.com/rajatmurhe/clinicvoice-ai)
+Voice first clinic receptionist in English, Hindi and Marathi.
+
+- Six agents in **LangGraph** with MCP tools, where only the FAQ agent calls an LLM
+- Real Google Calendar booking, Groq with Gemini failover, Amazon Bedrock as a second provider
+- Global safety gate added after live testing; evals and red team run in CI
+- Semantic caching cut average response time from **about 8.1 s to 48 ms** in project testing
+
+`Python` `FastAPI` `LangGraph` `MCP` `Whisper` `XTTS v2` `Bedrock` `Docker`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 [Atlas](https://github.com/rajatmurhe/atlas-commercial-intelligence)
+AI powered commercial intelligence workbench.
+
+- 24,576 synthetic pharma sales records on a **PostgreSQL star schema**
+- LangGraph analytics agent with SQL validation before any query runs
+- Forecast MAPE of **1.25%** against 4.70% for a seasonal naive baseline
+- 19 backend tests; Langfuse tracing in progress
+
+`Python` `LangGraph` `PostgreSQL` `SQL` `Forecasting`
+
+</td>
+<td width="50%" valign="top">
+
+### 📄 [ContractIQ](https://github.com/rajatmurhe/contractiq)
+AI contract review assistant. [Live demo](https://contractiq-frontend-2e3u.onrender.com/)
+
+- Ask questions about a contract in plain language
+- Every answer shows the **exact source quote** it came from, checked against the contract text
+- Synthetic evals for missing evidence, conflicting clauses and prompt injection
+
+`Next.js` `TypeScript` `FastAPI` `SQLite` `Google Sign In` `Render`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎥 [FieldProof AI](https://github.com/rajatmurhe/fieldproof-ai)
+Multi tenant video QA platform for field service.
+
+- Gemini checks job videos against a configurable checklist
+- PASS, FAIL or NOT_VISIBLE findings with **evidence timestamps** and human review
+- PostgreSQL job queue with retries and stale job recovery
+
+`Python` `FastAPI` `Next.js` `PostgreSQL` `Gemini` `Clerk`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ [SentinelAI](https://github.com/rajatmurhe/Sentinel-AI)
+Adaptive insider threat detection. [Live demo](https://sentinel-ai-czmu.onrender.com)
+
+- 10 stage pipeline with Isolation Forest and One Class SVM
+- **Tree SHAP** explains every flag
+- Post quantum cryptography layer and multi turn attack simulations
+- Research paper in progress
+
+`Python` `FastAPI` `React` `Scikit-learn` `SHAP`
+
+</td>
+</tr>
 </table>
 
-<br />
+<details>
+<summary><b>More projects</b></summary>
+<br>
 
----
+| Project | What it is | Links |
+|---|---|---|
+| Pulse Outreach | Job application and multi resume routing platform | [GitHub](https://github.com/rajatmurhe/Job-Outreach-Platform) |
+| AI Job Assistant | Resume and job matching with evidence for every skill | [GitHub](https://github.com/rajatmurhe/ai-job-assistant) |
+| Market Signal | Prediction market terminal built on news sentiment | [Live](https://market-signal-kh9r.onrender.com) · [GitHub](https://github.com/rajatmurhe/Market-Signal) |
+| NeuroAI | Explainable clinical diagnostic platform | [Live](https://neuroai-diagnostic-platform.onrender.com) · [GitHub](https://github.com/rajatmurhe/NeuroAI-Diagnostic-Platform) |
+| RAG Intelligence | Full stack chat with PDFs platform | [Live](https://ragpdf-frontend.onrender.com) · [GitHub](https://github.com/rajatmurhe/RAGPDF) |
+| CreditX | Credit risk classification | [Live](https://credix.streamlit.app) · [GitHub](https://github.com/rajatmurhe/CrediX-Explainable-Credit-Intelligence) |
 
-## Certifications
+</details>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/IBM-Advanced%20Generative%20AI-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft-ML%20Operations%20Engineer%20Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-Professional%20ML%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft-Azure%20Developer%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
-</div>
+## Experience
 
-<br />
+| Role | Company | When |
+|---|---|---|
+| AI Product Growth and Strategy Intern | DCS AI Technologies | Sep 2026 to Present |
+| AI/ML Intern | Linkific (Remote) | Jun 2026 to Aug 2026 |
+| AI Intern | Rungta Ventures AI | Jan 2026 to May 2026 |
 
----
+- **DCS AI Technologies:** API integration, testing multimodal AI workflows and credit consumption, AI connector platform testing, debugging and documented test cases.
+- **Linkific:** Secure enterprise AI assistant backend with FastAPI, RAG on PostgreSQL with pgvector, role based access control and Groq.
+- **Rungta Ventures AI:** Worked on the Buddyly and MyCA platforms in a team of about ten, with NLTK and spaCy document validation and semantic search.
 
-## Thanks for visiting!
+## Tech stack
 
-<div align="center">
-<i>"Ship real, working products, not just prototypes."</i>
-<br />
-<img src="https://komarev.com/ghpvc/?username=rajatmurhe&label=Profile%20Visitors&color=1F3864&style=for-the-badge" />
-<br /><br />
-<a href="#top"><img src="https://img.shields.io/badge/⬆%20Back%20to%20Top-1F3864?style=for-the-badge" /></a>
-</div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,40:3B5BA5,70:1F3864,100:0D1B3E&height=120&section=footer" />
+**AI and agents**
+<p>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/MCP-111421?style=flat-square"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square"/>
+<img src="https://img.shields.io/badge/Amazon%20Bedrock-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
 </p>
+
+**Backend and data**
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/pgvector-336791?style=flat-square"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+</p>
+
+**Frontend and DevOps**
+<p>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black"/>
+</p>
+
+## Certifications and achievements
+
+- 🏆 **First Prize, AGRHINOVA Hackathon**, VIT Chennai
+- 🎓 Avery Dennison Scholarship
+- ☁️ AWS Certified Developer Associate · AWS Certified Cloud Practitioner
+- ☁️ Google Cloud Professional Machine Learning Engineer
+- ☁️ Microsoft Azure Developer Associate (AZ-204) · Azure Fundamentals (AZ-900) · ML Operations Engineer Associate
+- 🤖 IBM Advanced Generative AI · Agile Fundamentals
+
+## GitHub activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajatmurhe&bg_color=0b0d16&color=8ea2ff&line=8ea2ff&point=ffffff&area=true&area_color=1f2a5c&hide_border=true" width="100%" alt="Contribution graph"/>
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8ea2ff,50:1f2a5c,100:0b0d16&height=110&section=footer" width="100%" alt=""/>
+</div>
