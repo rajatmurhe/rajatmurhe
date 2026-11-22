@@ -19,7 +19,7 @@
 name:        Rajat Murhe
 based_in:    Pune, India
 studying:    BTech Computer Science (AI and Machine Learning), VIT Chennai, graduating Sep 2027
-experience:  3 internships across AI engineering, applied ML and AI product work
+experience:  4 internships across AI engineering, applied ML and AI product work
 building:    LLM agents, RAG systems, eval harnesses, FastAPI backends, Next.js frontends
 daily_tools: Claude Code, Cursor, Codex
 looking_for: AI, GenAI and agentic AI internships and junior roles (India or remote)
@@ -36,10 +36,10 @@ I care about AI systems that are right, safe and fast at the same time. Most of 
 ### 📈 [TickerSage](https://github.com/rajatmurhe/tickersage)
 Read only crypto market research agent.
 
-- 7 tool integrations, every number checked by a **number verifier**: 100% of numbers traced to source on a blind held out eval
-- Slowest 5% latency cut from **4.5 s to 1.7 s** at the same 78.8% pass rate
-- Attacks getting through cut from **72.8% to 1.9%**, with 932 regression attacks blocked
-- RAG MRR improved from **0.533 to 0.721**
+- 8 read only tools, and a **number verifier** checks every figure against the tool data before an answer goes out
+- Slowest 5% latency cut from **4.5 s to 1.7 s** at the same 78.8% pass rate on a blind held out set
+- Attacks getting through cut from **72.8% to 1.9%**, with 932 saved attacks rerun in CI
+- Docs search MRR up from **0.533 to 0.630** as deployed (0.721 with an optional reranker)
 
 `Python` `FastAPI` `LangGraph` `MCP` `pgvector` `Redis` `Next.js` `Claude` `OpenAI` `Groq`
 
@@ -49,27 +49,27 @@ Read only crypto market research agent.
 ### 🩺 [ClinicVoice AI](https://github.com/rajatmurhe/clinicvoice-ai)
 Voice first clinic receptionist in English, Hindi and Marathi.
 
-- Six agents in **LangGraph** with MCP tools, where only the FAQ agent calls an LLM
-- Real Google Calendar booking, Groq with Gemini failover, Amazon Bedrock as a second provider
-- Global safety gate added after live testing; evals and red team run in CI
-- Semantic caching cut average response time from **about 8.1 s to 48 ms** in project testing
+- Six workflow agents (booking, refill, insurance, intake, handoff, FAQ), and only the FAQ agent calls an LLM
+- Groq with **Gemini failover**, and an ID check before anyone can look up or change an appointment
+- Safety layer blocks dosage, diagnosis and prompt injection requests; the red team set runs in CI
+- Offline evals: 100% on 25 booking flows and 36 routing cases, **91.2%** FAQ hit at 1
 
-`Python` `FastAPI` `LangGraph` `MCP` `Whisper` `XTTS v2` `Bedrock` `Docker`
+`Python` `FastAPI` `Node.js` `Groq` `Gemini` `Whisper` `SQLite` `Docker`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📊 [Atlas](https://github.com/rajatmurhe/atlas-commercial-intelligence)
-AI powered commercial intelligence workbench.
+### 🧾 [LeakProof](https://github.com/rajatmurhe/leakproof)
+Checks supplier invoices against what the contract actually says.
 
-- 24,576 synthetic pharma sales records on a **PostgreSQL star schema**
-- LangGraph analytics agent with SQL validation before any query runs
-- Forecast MAPE of **1.25%** against 4.70% for a seasonal naive baseline
-- 19 backend tests; Langfuse tracing in progress
+- An LLM proposes contract terms, a person approves them, and a **C# rules engine** works out every rupee
+- Checking the model's output lifted extraction precision from 67.8% to **97.5%** on a 3B local model, catching 18 of 19 wrong proposals
+- 8 rules including GST rate, tax type and GSTIN checks, covered by 61 xUnit tests
+- On a sample portfolio of 50 fictional invoices it finds ₹6.73 lakh to recover
 
-`Python` `LangGraph` `PostgreSQL` `SQL` `Forecasting`
+`C#` `.NET 10` `ASP.NET Core` `EF Core` `React` `TypeScript` `FastAPI` `Ollama`
 
 </td>
 <td width="50%" valign="top">
@@ -88,6 +88,19 @@ AI contract review assistant. [Live demo](https://contractiq-frontend-2e3u.onren
 <tr>
 <td width="50%" valign="top">
 
+### 📊 [Atlas](https://github.com/rajatmurhe/atlas-commercial-intelligence)
+AI powered commercial intelligence workbench.
+
+- 24,576 synthetic pharma sales records on a **PostgreSQL star schema**
+- LangGraph analytics agent with SQL validation before any query runs
+- Forecast MAPE of **1.25%** against 4.70% for a seasonal naive baseline
+- 37 backend tests and a 60 case regression set checked against an independent oracle
+
+`Python` `LangGraph` `PostgreSQL` `SQL` `Forecasting`
+
+</td>
+<td width="50%" valign="top">
+
 ### 🎥 [FieldProof AI](https://github.com/rajatmurhe/fieldproof-ai)
 Multi tenant video QA platform for field service.
 
@@ -96,19 +109,6 @@ Multi tenant video QA platform for field service.
 - PostgreSQL job queue with retries and stale job recovery
 
 `Python` `FastAPI` `Next.js` `PostgreSQL` `Gemini` `Clerk`
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ [SentinelAI](https://github.com/rajatmurhe/Sentinel-AI)
-Adaptive insider threat detection. [Live demo](https://sentinel-ai-czmu.onrender.com)
-
-- 10 stage pipeline with Isolation Forest and One Class SVM
-- **Tree SHAP** explains every flag
-- Post quantum cryptography layer and multi turn attack simulations
-- Research paper in progress
-
-`Python` `FastAPI` `React` `Scikit-learn` `SHAP`
 
 </td>
 </tr>
@@ -120,6 +120,8 @@ Adaptive insider threat detection. [Live demo](https://sentinel-ai-czmu.onrender
 
 | Project | What it is | Links |
 |---|---|---|
+| Veritas | Finds copied, paraphrased, read aloud and AI written work across PDF, DOCX and MP4, with the exact evidence for every flag | [GitHub](https://github.com/rajatmurhe/Multimodal-Submission-Integrity-Plagiarism-Detection-Engine) |
+| SentinelAI | Adaptive insider threat detection research on the CERT dataset | [Live](https://sentinel-ai-czmu.onrender.com) · [GitHub](https://github.com/rajatmurhe/Sentinel-AI) |
 | Pulse Outreach | Job application and multi resume routing platform | [GitHub](https://github.com/rajatmurhe/Job-Outreach-Platform) |
 | AI Job Assistant | Resume and job matching with evidence for every skill | [GitHub](https://github.com/rajatmurhe/ai-job-assistant) |
 | Market Signal | Prediction market terminal built on news sentiment | [Live](https://market-signal-kh9r.onrender.com) · [GitHub](https://github.com/rajatmurhe/Market-Signal) |
@@ -133,13 +135,15 @@ Adaptive insider threat detection. [Live demo](https://sentinel-ai-czmu.onrender
 
 | Role | Company | When |
 |---|---|---|
-| AI Product Growth and Strategy Intern | DCS AI Technologies | Sep 2026 to Present |
+| AI Engineer Intern | AIQuest | Nov 2026 to Present |
+| Applied AI and Software Engineering Intern | DCS AI Technologies | Sep 2026 to Present |
 | AI/ML Intern | Linkific (Remote) | Jun 2026 to Aug 2026 |
 | AI Intern | Rungta Ventures AI | Jan 2026 to May 2026 |
 
-- **DCS AI Technologies:** API integration, testing multimodal AI workflows and credit consumption, AI connector platform testing, debugging and documented test cases.
+- **AIQuest:** Building production AI features with Python, FastAPI and AWS.
+- **DCS AI Technologies:** Built and tested connectors for an AI integration platform, tested multimodal AI workflows and credit consumption, and wrote an AI model routing report.
 - **Linkific:** Secure enterprise AI assistant backend with FastAPI, RAG on PostgreSQL with pgvector, role based access control and Groq.
-- **Rungta Ventures AI:** Worked on the Buddyly and MyCA platforms in a team of about ten, with NLTK and spaCy document validation and semantic search.
+- **Rungta Ventures AI:** Worked on the Buddyly and MyCA platforms in a team of about ten, with NLTK and spaCy document validation and semantic search. Also built a CCTV intrusion detection system with PyTorch detectors, ONNX packaging and multi camera alerts.
 
 ## Tech stack
 
@@ -152,7 +156,6 @@ Adaptive insider threat detection. [Live demo](https://sentinel-ai-czmu.onrender
 <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
 <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square"/>
-<img src="https://img.shields.io/badge/Amazon%20Bedrock-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
@@ -163,6 +166,8 @@ Adaptive insider threat detection. [Live demo](https://sentinel-ai-czmu.onrender
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
@@ -185,10 +190,10 @@ Adaptive insider threat detection. [Live demo](https://sentinel-ai-czmu.onrender
 
 - 🏆 **First Prize, AGRHINOVA Hackathon**, VIT Chennai
 - 🎓 Avery Dennison Scholarship
-- ☁️ AWS Certified Developer Associate · AWS Certified Cloud Practitioner
 - ☁️ Google Cloud Professional Machine Learning Engineer
 - ☁️ Microsoft Azure Developer Associate (AZ-204) · Azure Fundamentals (AZ-900) · ML Operations Engineer Associate
-- 🤖 IBM Advanced Generative AI · Agile Fundamentals
+- ☁️ AWS Cloud Practitioner Essentials
+- 🤖 IBM Advanced Generative AI
 
 ## GitHub activity
 
